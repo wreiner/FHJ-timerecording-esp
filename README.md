@@ -16,3 +16,8 @@ To use the Firebase library install the library through Platformio but overwrite
 It basically comments out everything regarding file systems.
 
 Also create a symlink between `.pio/libdeps/nodemcuv2/Firebase ESP8266 Client/src/Firebase.h` and `.pio/libdeps/nodemcuv2/Firebase ESP8266 Client/src/FirebaseESP8266.h`.
+
+## Sources
+
+- [Schematic Example](https://miliohm.com/rc522-rfid-reader-with-nodemcu/)
+- [NodeMCU pin definitions](https://github.com/esp8266/Arduino/blob/master/variants/nodemcu/pins_arduino.h)
